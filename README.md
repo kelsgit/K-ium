@@ -19,6 +19,10 @@
 
 키움화이팅 (김수인, 곽엘림, 박민영, 박지은, 하민세, 한규원)
 
+## Pipeline
+![pipeline](https://github.com/kelsgit/K-ium/assets/109035535/17a8deaa-9205-495d-8aa3-08b429504825)
+
+
 ## Reference
 
 Asymmetric Loss
