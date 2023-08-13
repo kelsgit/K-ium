@@ -12,8 +12,10 @@
 ##Reference
 
 Asymmetric Loss
+
 https://github.com/Alibaba-MIIL/ASL/blob/main/src/loss_functions/losses.py
 
 MedNet Weight
+
 https://huggingface.co/TencentMedicalNet/MedicalNet-Resnet18
 
